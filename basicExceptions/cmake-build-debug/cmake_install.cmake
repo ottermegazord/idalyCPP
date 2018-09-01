@@ -1,4 +1,4 @@
-# Install script for directory: /Users/idaly666/CLionProjects/basicExceptions
+# Install script for directory: /Users/idaly666/CLionProjects/idalyCPP/basicExceptions
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/idaly666/CLionProjects/basicExceptions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/idaly666/CLionProjects/idalyCPP/basicExceptions/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
