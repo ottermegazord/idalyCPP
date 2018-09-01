@@ -1,0 +1,3 @@
+/Users/idaly666/CLionProjects/basicExceptions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/idaly666/CLionProjects/basicExceptions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/idaly666/CLionProjects/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir
