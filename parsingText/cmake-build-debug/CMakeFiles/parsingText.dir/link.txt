@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/parsingText.dir/main.cpp.o  -o parsingText 
+/usr/bin/c++  -g   CMakeFiles/parsingText.dir/main.cpp.o  -o parsingText 

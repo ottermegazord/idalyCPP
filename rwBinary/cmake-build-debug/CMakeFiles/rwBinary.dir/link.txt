@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rwBinary.dir/main.cpp.o  -o rwBinary 

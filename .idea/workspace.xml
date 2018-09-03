@@ -10,10 +10,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8a9b5f3-8707-479a-a493-57750de94e33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/standardExceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/standardExceptions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standardExceptions/cmake-build-debug/CMakeFiles/standardExceptions.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/standardExceptions/cmake-build-debug/CMakeFiles/standardExceptions.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standardExceptions/cmake-build-debug/standardExceptions" beforeDir="false" afterPath="$PROJECT_DIR$/standardExceptions/cmake-build-debug/standardExceptions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/standardExceptions/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/standardExceptions/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/basicExceptions.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/basicExceptions" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/basicExceptions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/basicExceptions.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/basicExceptions.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/basicExceptions/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/basicExceptions/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -56,6 +82,16 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2088097680">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -128,18 +164,7 @@
             <path>
               <item name="idalyCPP" type="b2602c69:ProjectViewProjectNode" />
               <item name="idalyCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="basicExceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idalyCPP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idalyCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="basicExceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idalyCPP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idalyCPP" type="462c0819:PsiDirectoryNode" />
-              <item name="customExceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="standardExceptions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,7 +174,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/parsingText" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -194,16 +219,18 @@
       <workItem from="1535784087338" duration="28000" />
       <workItem from="1535784123122" duration="1000" />
       <workItem from="1535784866161" duration="14000" />
+      <workItem from="1535945437938" duration="30000" />
+      <workItem from="1535946254683" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="585000" />
+    <option name="totallyTimeSpent" value="631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="594" y="70" width="1030" height="938" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28036436" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29327902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -218,7 +245,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" visible="true" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="CMake" order="12" visible="true" weight="0.3316583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
