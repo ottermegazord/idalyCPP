@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ottermegazord/CLionProjects/idalyCPP/classTest/Complex.h
+
+/home/ottermegazord/CLionProjects/idalyCPP/classTest/main.cpp
+iostream
+-
+Complex.h
+/home/ottermegazord/CLionProjects/idalyCPP/classTest/Complex.h
+
