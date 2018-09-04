@@ -12,23 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7868f98b-d6e0-47f2-84ba-7088bf2bdd90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../classTest/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classTest/Complex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classTest/Complex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../complexNumber/Complex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../complexNumber/Complex.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../operatorOverload/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../operatorOverload/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../overloadLeftBit/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../overloadLeftBit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complex.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multimaps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multimaps/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multimaps/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../multimaps/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../classTest/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +26,7 @@
     <session id="1651125637">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -117,8 +101,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2696" />
-    <option name="y" value="369" />
+    <option name="x" value="3997" />
+    <option name="y" value="423" />
     <option name="width" value="1630" />
     <option name="height" value="1563" />
   </component>
@@ -194,15 +178,15 @@
       <option name="presentableId" value="Default" />
       <updated>1536025598256</updated>
       <workItem from="1536025599462" duration="1356000" />
-      <workItem from="1536029057096" duration="2015000" />
+      <workItem from="1536029057096" duration="2022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3371000" />
+    <option name="totallyTimeSpent" value="3378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2696" y="369" width="1630" height="1563" extended-state="0" />
+    <frame x="3997" y="423" width="1630" height="1563" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2528445" />
